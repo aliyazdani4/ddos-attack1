@@ -17,4 +17,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 Thanks for reading
 
-Coded by: Ali Yazdani
+Coded by: Ali Yazdani (Lucifer)
